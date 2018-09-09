@@ -1,0 +1,277 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 1100px;
+    margin: 0 auto;
+}
+.header:before{
+    content: "";
+    display: table;
+    clear: both;
+}
+.header:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.box{
+    width: 30%;
+    float: left;
+}
+.boxa{
+    clear: both;
+    width: 1100px;
+    margin: 0 auto; 
+    text-align: center;
+    color: #F58220;
+    font-family: 'Lato', sans-serif;
+}
+.boxa h1{
+      margin-top: 70px;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+.boxa p{
+    margin: 0px;
+    font-size: 18px;
+}
+button{
+    
+    padding: 6px 20px;
+    font-size: 20px;
+    background: #F58220;
+    color: white;
+    border: 3px solid white;
+    border-radius: 8px;
+    margin: 60px 0px 40px 0px;
+}
+
+button:hover{
+    background: white;
+    color: #F58220;
+    border: 3px solid #F58220;
+    
+    transition: 0.7s;
+}
+.a{
+    width: 70%;
+}
+.a ul{
+    margin-top: 20px;
+}
+.a ul li{
+    list-style: none;
+    float: left;
+    padding: 20px;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.a ul li a{
+    text-decoration: none;
+    color: #F58220;  
+    font-family: 'Righteous', cursive;
+}
+.a ul li a:hover{
+    color: white;
+    transition: 0.7s;
+}
+.head{
+    background: #BAD1DB;
+}
+/*All css of head*/
+
+
+.content{
+  
+}
+.container{
+    width: 900px;
+    
+  
+    margin: 0 auto;
+}
+.container:before{
+    content: "";
+    display: table;
+    clear: both;
+}
+.container:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.boxb{
+    padding: 10px;
+    width: 300px;
+    float: left;
+    text-align: center;
+    margin-top: 50px;
+}
+.boxb i{
+    font-size: 80px;
+    color: #F58220;
+}
+.boxb h3{
+    font-size: 26px;
+    margin: 10px 0px 0px 0px;
+    font-family: 'Muli', sans-serif;
+    font-weight: 800;
+}
+.boxb p{
+    font-size: 19px;
+    margin: 10px 0px 0px 0px;
+    font-family: 'Karla', sans-serif;
+}
+
+
+
+/*all css of container_2*/
+
+.contentc{
+}
+.containerc{
+    width: 1000px;
+    margin: 0 auto;
+    
+}
+.containerc:before{
+    content: "";
+    display: table;
+    clear: both;
+}
+.containerc:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.boxc {
+    width: 25%;
+   color: #F58220;
+    float: left;
+    margin-top: 70px;
+    margin-bottom: 50px;
+   
+}
+.boxc img{
+    height: 220px;
+    width: 240px;
+    padding: 0px 10px;
+     margin-left: 10px
+}
+.boxc h1{
+    margin: 10px 0px 4px 18px;
+    font-size: 30px;
+    font-family: 'Righteous', cursive;
+}
+.boxc h3{
+   margin: 0px 18px;
+    font-family: 'Acme', sans-serif;
+    color: #E75D1D;
+}
+.boxc p{
+    margin: 5px 18px;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 700;
+    color: black;
+}
+/*footer start*/
+.footer{
+    width: 900px;
+    margin: 0 auto;
+}
+.footer:before{
+    content: "";
+    display: table;
+    clear: both;
+}
+.footer:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.box_footer{
+    width: 300px;
+    float: left;
+    margin-top: 60px;
+}
+.box_footer h1{
+    text-align: center;
+    margin: 0;
+    font-family: 'Acme', sans-serif;
+}
+.box_footer p{
+    text-align: center;
+    margin: 20px;
+    font-family: 'Lato', sans-serif;
+}
+.foot{
+   background:#D86B3F;
+    color: white;
+    
+}
+.box_footer ul{
+    margin: 0;
+}
+.box_footer ul li{
+    float: left;
+    list-style: none;
+    padding: 10px;
+}
+.box_footer ul li a:hover{
+    color: #FA9869;
+    transition: 0.5s;
+}
+.box_footer ul li a{
+ font-size: 60px;   
+    color: white;
+}
+
+
+
+
+
+
+
+.copy_right{
+    background:#BB4800;
+}
+.copy{
+    width: 400px;
+    margin: 0 auto;
+     padding-top: 30px;
+    color: white;
+}
+.copy:befoe{
+    content: "";
+    display: table;
+    clear: both;
+}
+.copy:both{
+    content: "";
+    display: table;
+    clear: both;
+}
+.copy p{
+   
+    margin: 0px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
